@@ -44,3 +44,17 @@ yarn-error.log*
 
 # idea files
 .idea
+
+# vscode
+.vscode/
+
+# Business Central specific
+.alcache/
+.alpackages/
+.snapshots/
+.output/
+*.app
+rad.json
+*.g.xlf
+*.flf
+TestResults.xml
